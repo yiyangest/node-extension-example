@@ -1,0 +1,9 @@
+argv = ['/usr/local/bin/node-waf', 'configure', 'build', '--nocache']
+blddir = '/Users/yiyang/Documents/projects/node-extension-example/build'
+commands = {'dist': 0, 'configure': True, 'distcheck': 0, 'install': 0, 'build': True, 'clean': 0, 'distclean': 0, 'check': 0, 'uninstall': 0}
+cwd = '/Users/yiyang/Documents/projects/node-extension-example'
+environ = {'TERM_SESSION_ID': '38E3ADC9-6A6E-4F9B-8282-298367C74FA1', 'SSH_AUTH_SOCK': '/tmp/launch-KYxOfH/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'LC_CTYPE': 'en_US.UTF-8', 'TERM_PROGRAM_VERSION': '303.2', 'Apple_PubSub_Socket_Render': '/tmp/launch-r9lZD3/Render', 'LOGNAME': 'yiyang', 'USER': 'yiyang', 'HOME': '/Users/yiyang', 'PATH': '/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin', 'DISPLAY': '/tmp/launch-yKqQFg/org.x:0', '_': '/usr/local/bin/node-waf', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'SHELL': '/bin/zsh', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '1', 'OLDPWD': '/Users/yiyang/Documents/projects/scws', 'SECURITYSESSIONID': '186a5', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'Apple_Ubiquity_Message': '/tmp/launch-T8mPsj/Apple_Ubiquity_Message', 'PWD': '/Users/yiyang/Documents/projects/node-extension-example', 'TMPDIR': '/var/folders/6y/w60mzz_s36j76j_22mqw_sf80000gn/T/', 'GREP_OPTIONS': '--color=auto', 'GREP_COLOR': '1;32', 'COMMAND_MODE': 'unix2003', 'PAGER': 'less -R', 'LSCOLORS': 'Gxfxcxdxbxegedabagacad'}
+files = []
+hash = 0
+options = {'compile_targets': None, 'force': False, 'verbose': 0, 'nocache': True, 'progress_bar': 0, 'destdir': '', 'keep': False, 'zones': '', 'blddir': '', 'prefix': '/usr/local/', 'jobs': 8, 'srcdir': '', 'check_cxx_compiler': 'g++'}
+srcdir = '/Users/yiyang/Documents/projects/node-extension-example'
